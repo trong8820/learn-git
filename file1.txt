@@ -2,3 +2,4 @@ file1
 
 Chinh lan 1
 Chinh lan 2
+Chinh lan 3
